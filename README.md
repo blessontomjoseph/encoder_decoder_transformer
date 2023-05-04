@@ -1,0 +1,2 @@
+# encoder_decoder_transformer
+encoder_decoder_transformer architecture for machine translation kind of setting
